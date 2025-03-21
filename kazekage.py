@@ -13,9 +13,9 @@ from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 from faker import Faker
 
-BOT_TOKEN = '7710870085:AAGAOHpEU6glGZlrcK-c31ML6DaPGfqJ0sw'
-SUBSCRIBER_ID = ['7297683223', '7069274296', '1427995253']
-ADMIN_USER_IDS = ['7297683223', '6658831303', '7816453247', '7069274296', '1427995253']
+BOT_TOKEN = '7821255517:AAEC49_uBWveQUJbVfydhCPVpvcoBbdThJY'
+SUBSCRIBER_ID = ['5716550739']
+ADMIN_USER_IDS = ['5716550739']
 ALLOWED_USERS_FILE = 'allowed_users.json'
 USER_PLANS_FILE = 'user_plans.json'
 REDEEM_CODES_FILE = 'redeem_codes.json'
