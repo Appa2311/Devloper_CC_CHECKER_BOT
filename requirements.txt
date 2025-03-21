@@ -1,0 +1,6 @@
+python-telegram-bot
+Requests
+Telebot
+BeautifulSoup
+Faker
+Bs4

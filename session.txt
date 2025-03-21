@@ -1,0 +1,1 @@
+{'mailchimp_landing_site': 'https%3A%2F%2Fwww.thetravelinstitute.com%2Fregister%2F'}
